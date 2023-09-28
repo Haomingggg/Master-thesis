@@ -1,5 +1,5 @@
 # MSc European Forestry
-Master's thesis / Stage report
+Master's thesis / Stage rapport
 
 From 01/03/2023 to 30/08/2023 in Ecosilva lab, AgroParisTech, Nancy, France
 

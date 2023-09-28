@@ -1,7 +1,7 @@
 # MSc European Forestry
 Master's thesis / Stage rapport
 
-From 01/03/2023 to 30/08/2023 in Ecosilva lab, AgroParisTech, Nancy, France
+01/03/2023 - 30/08/2023, Ecosilva, AgroParisTech, Nancy, France
 
 Supervised by Christian Piedallu
 
